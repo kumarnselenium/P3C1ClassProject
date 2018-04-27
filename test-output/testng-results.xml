@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19880" started-at="2018-04-09T00:09:48Z" finished-at="2018-04-09T00:10:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19880" started-at="2018-04-09T00:09:48Z" finished-at="2018-04-09T00:10:08Z">
+      <class name="automationConcepts.VerificationsUsingTestNG">
+        <test-method status="PASS" signature="emiCalc()[pri:0, instance:automationConcepts.VerificationsUsingTestNG@2a2d45ba]" name="emiCalc" duration-ms="19800" started-at="2018-04-08T20:09:48Z" finished-at="2018-04-08T20:10:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emiCalc -->
+      </class> <!-- automationConcepts.VerificationsUsingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
